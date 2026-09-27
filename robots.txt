@@ -1,0 +1,8 @@
+# Happie Travels Search Engine Crawler Directives
+# Optimized for Googlebot, Bingbot, and Local Search Indexing
+
+User-agent: *
+Allow: /
+
+# XML Sitemap Location
+Sitemap: https://www.happietravels.com/sitemap.xml

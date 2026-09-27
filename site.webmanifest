@@ -1,0 +1,21 @@
+{
+  "name": "Happie Travels - Car Rental",
+  "short_name": "HappieTravels",
+  "description": "Affordable self drive and travel car rental booking starting at ₹99/hr.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0B0F17",
+  "theme_color": "#0B0F17",
+  "icons": [
+    {
+      "src": "images/hero.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "images/hero.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
